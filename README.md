@@ -30,6 +30,8 @@ This repository is part of my hands-on learning and practical implementation of:
 * PowerShell
 * Bash
 * GCP
+* Prometheus
+* Grafana
 
 ---
 
