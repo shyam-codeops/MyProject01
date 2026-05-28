@@ -33,6 +33,7 @@ This repository is part of my hands-on learning and practical implementation of:
 * Prometheus
 * Grafana
 * Helm
+* Jenkins
 
 ---
 
