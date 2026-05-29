@@ -34,7 +34,6 @@ This repository is part of my hands-on learning and practical implementation of:
 * Grafana
 * Helm
 * Jenkins
-* GCP
 
 
 ---
